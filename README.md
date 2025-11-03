@@ -357,4 +357,4 @@ src/
 **Ayzirek Akjolkyzy**
 Junior Java Developer | Bishkek, Kyrgyzstan
 📧 [aizirek.akjolkyzy.ch@gmail.com](mailto:aizirek.akjolkyzy.ch@gmail.com)
-🔗 GitHub: [https://github.com/your-username](https://github.com/Ayzirekjolkyzy/)
+🔗 GitHub: [https://github.com/Ayzirekjolkyzy](https://github.com/Ayzirekjolkyzy/)
