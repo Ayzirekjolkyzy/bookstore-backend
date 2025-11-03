@@ -1,0 +1,10 @@
+version: 1.0
+runtime: java
+build:
+  commands:
+    - cd backend/okuylu_back
+    - mvn clean package
+run:
+  command: java -jar target/okuylu_back-*.jar
+  network:
+    port: 4445

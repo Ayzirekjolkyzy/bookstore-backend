@@ -1,0 +1,1 @@
+ALTER TABLE faq RENAME COLUMN id TO faq_id;

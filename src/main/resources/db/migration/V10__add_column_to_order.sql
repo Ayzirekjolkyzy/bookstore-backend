@@ -1,0 +1,4 @@
+ALTER TABLE orders ADD COLUMN updated_at TIMESTAMP;
+
+
+

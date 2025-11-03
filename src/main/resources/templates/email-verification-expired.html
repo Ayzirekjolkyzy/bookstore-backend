@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Шилтеменин мөөнөтү бүттү</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        h1 { color: orange; }
+        input, button { padding: 10px; margin: 10px; font-size: 16px; }
+    </style>
+</head>
+<body>
+<h1>Шилтеменин мөөнөтү бүттү</h1>
+<p>Жаңы кат жөнөтүү үчүн электрондук почтаңызды киргизиңиз:</p>
+
+<form action="/api/auth/resend-verification" method="post">
+    <input type="email" name="email" required placeholder="Email киргизиңиз">
+    <button type="submit">Кайра жөнөтүү</button>
+</form>
+
+<a href="https://oku-kg.netlify.app">Башкы бетке кайтуу</a>
+</body>
+</html>

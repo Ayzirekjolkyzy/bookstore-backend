@@ -1,0 +1,2 @@
+ALTER TABLE discounts
+ADD COLUMN discount_name VARCHAR(255) NOT NULL;
