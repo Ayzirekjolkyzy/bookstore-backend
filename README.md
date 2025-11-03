@@ -12,8 +12,8 @@
 ###  Шаг 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Ayzirekjolkyzy/bookstore-backend.git
+cd bookstore-backend
 ```
 
 ---
